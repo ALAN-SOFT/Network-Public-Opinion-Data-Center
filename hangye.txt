@@ -1,0 +1,132 @@
+{
+    "msg": "行业标签列表成功",
+    "code": 200,
+    "data": {
+        "data": [
+            {
+                "doc_count": 27703,
+                "key": "其它"
+            },
+            {
+                "doc_count": 14381,
+                "key": "政府部门"
+            },
+            {
+                "doc_count": 10041,
+                "key": "农业服务"
+            },
+            {
+                "doc_count": 9762,
+                "key": "教育行业"
+            },
+            {
+                "doc_count": 8756,
+                "key": "证券期货"
+            },
+            {
+                "doc_count": 7272,
+                "key": "房产行业"
+            },
+            {
+                "doc_count": 5808,
+                "key": "银行业"
+            },
+            {
+                "doc_count": 4703,
+                "key": "汽车行业"
+            },
+            {
+                "doc_count": 4197,
+                "key": "旅游行业"
+            },
+            {
+                "doc_count": 3637,
+                "key": "法律司法"
+            },
+            {
+                "doc_count": 3222,
+                "key": "生活服务"
+            },
+            {
+                "doc_count": 2958,
+                "key": "医疗行业"
+            },
+            {
+                "doc_count": 2920,
+                "key": "互联网"
+            },
+            {
+                "doc_count": 2296,
+                "key": "制药行业"
+            },
+            {
+                "doc_count": 2120,
+                "key": "园区开发"
+            },
+            {
+                "doc_count": 2083,
+                "key": "电力电网"
+            },
+            {
+                "doc_count": 1852,
+                "key": "信息技术"
+            },
+            {
+                "doc_count": 1818,
+                "key": "环保节能"
+            },
+            {
+                "doc_count": 1745,
+                "key": "物流行业"
+            },
+            {
+                "doc_count": 1395,
+                "key": "商贸零售"
+            },
+            {
+                "doc_count": 1360,
+                "key": "航空运输"
+            },
+            {
+                "doc_count": 1270,
+                "key": "文化传媒"
+            },
+            {
+                "doc_count": 1196,
+                "key": "制造行业"
+            },
+            {
+                "doc_count": 888,
+                "key": "交通出行"
+            },
+            {
+                "doc_count": 856,
+                "key": "保险行业"
+            },
+            {
+                "doc_count": 811,
+                "key": "酒店餐饮"
+            },
+            {
+                "doc_count": 803,
+                "key": "体育产业"
+            },
+            {
+                "doc_count": 790,
+                "key": "电子商务"
+            },
+            {
+                "doc_count": 622,
+                "key": "人工智能"
+            },
+            {
+                "doc_count": 548,
+                "key": "新型能源"
+            },
+            {
+                "doc_count": 133680,
+                "key": "total"
+            }
+        ]
+    }
+}
