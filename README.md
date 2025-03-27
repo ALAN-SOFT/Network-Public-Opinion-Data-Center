@@ -76,10 +76,12 @@
             },
           ]
 ### 2. 高频词汇
-![高频词汇](https://github.com/ALAN-SOFT/Network-Public-Opinion-Data-Center/assets/44634241/6fffa393-ea8e-4d40-9d61-b5da4d3e9e1e)
+![高频词汇](![Snipaste_2025-03-27_21-03-41](https://github.com/user-attachments/assets/6b32f3e4-a6f5-4eaf-8767-fcb49f24fa59)
+)
 
 ### 3.高频词汇指数
 
 
-![高频词指数](https://github.com/ALAN-SOFT/Network-Public-Opinion-Data-Center/assets/44634241/f9a05344-a75f-4a7a-9104-7ed1cfc0798c)
+![高频词指数](![Snipaste_2025-03-27_21-03-51](https://github.com/user-attachments/assets/5bebf6ab-607a-4a0e-b149-5856b63f5160)
+)
 
