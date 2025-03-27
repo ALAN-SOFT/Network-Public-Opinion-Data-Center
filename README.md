@@ -76,12 +76,9 @@
             },
           ]
 ### 2. 高频词汇
-![高频词汇](![Snipaste_2025-03-27_21-03-41](https://github.com/user-attachments/assets/6b32f3e4-a6f5-4eaf-8767-fcb49f24fa59)
-)
+![高频词汇](https://github.com/user-attachments/assets/6b32f3e4-a6f5-4eaf-8767-fcb49f24fa59)
 
 ### 3.高频词汇指数
 
 
-![高频词指数](![Snipaste_2025-03-27_21-03-51](https://github.com/user-attachments/assets/5bebf6ab-607a-4a0e-b149-5856b63f5160)
-)
-
+![高频词指数](https://github.com/user-attachments/assets/5bebf6ab-607a-4a0e-b149-5856b63f5160)
